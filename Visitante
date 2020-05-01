@@ -1,0 +1,5 @@
+package ProjetoHerança;
+
+public class Visitante extends Pessoa {
+   // Herança pobre , ou seja , herança de implementação .
+}
